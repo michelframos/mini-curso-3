@@ -12,7 +12,7 @@
             <article class="box-vantagem coluna-1-4 texto-center padding-10">
 
                 <div class="espaco20"></div>
-                <h2 class="subtitulo">Facilidade</h2>
+                <h2 class="subtitulo">lgh gohg toeih </h2>
                 <div class="espaco40"></div>
 
                 <span class="icon-thumbs-up-1 icon-vantagem"></span>
